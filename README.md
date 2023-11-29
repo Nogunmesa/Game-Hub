@@ -1,5 +1,4 @@
-# git_test
-Game Hub
+# Game Hub
 Welcome to the Game Hub repository! This repository hosts console-based games written in C. Currently, it includes a Tic-Tac-Toe game.
 
 Tic-Tac-Toe Game
